@@ -1,0 +1,68 @@
+
+.maindiv{
+  width: 400px;
+  height: 670px;
+  background-color: rgb(248, 242, 242);
+  margin-top: 10px;
+  margin-left: 500px;
+  border-radius: 10px;
+}
+.text1{
+  margin-top: 20px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+.text2{
+  margin-top: 20px;
+  margin-right: 50px;
+  font-weight: bold;
+}
+.inputtxt{
+  margin-top: 30px;
+  font-size: 18px;
+  margin-left: 85px;
+  
+}
+.paytmbtn{
+  padding: 10px,20px;
+  font-size: 18px;
+  margin-left: 70px;
+  }
+
+input{
+  width: 200px;
+  height: 10px;
+  padding: 10px;
+  margin: 20px;
+  font-size: 18px;
+  border-radius: 20px;
+}
+button:disabled{
+  margin-top: 20px;
+  border-radius: 20px;
+  padding: 10px,20px;
+  font-size: 18px;
+  height: 40px;
+  color: black;
+
+ } 
+button:enabled{
+  margin-top: 20px;
+  border-radius: 20px;
+  padding: 10px,20px;
+  font-size: 18px;
+  height: 40px;
+  background-color: rgb(108, 179, 247);
+}
+
+.image{
+  width: 400px;
+  height: 220px;
+}
+.image22{
+  width: 350px;
+  height: 200px;
+  margin-left: 25px;
+  margin-top: -60px;
+  border-radius: 15px;
+}
